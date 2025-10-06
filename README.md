@@ -21,14 +21,6 @@ Users can answer multiple-choice questions, receive instant feedback, and see th
 - **CSS3** – Styling and layout design  
 - **JavaScript (ES6)** – Quiz logic and interactivity  
 
-## Folder Structure
-Quiz-App/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 
 ## Future Improvements
 - Add a timer for each question  
